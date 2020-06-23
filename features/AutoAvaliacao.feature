@@ -64,6 +64,6 @@ And a porcentagem aproximada de “33,3%” de alunos discrepantes totais da dis
 And vejo um botão para voltar a página de “visão geral da disciplina” Alguma coisa Alguma coisa 2.
 And vejo uma luz no fim do tunel.
 
-Scenario: Novo cenário para questão 15.
+Scenario: Pequeno detalhe do cenário da questão 15.
 
 
